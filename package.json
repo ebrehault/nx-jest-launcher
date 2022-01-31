@@ -1,0 +1,11 @@
+{
+  "name": "nx-jest-launcher",
+  "version": "1.0.0",
+  "description": "Run a single Jest test file in Nx without specifiying app or lib name",
+  "bin": {
+    "nx-jest-launcher": "./command.js"
+  },
+  "repository": "https://github.com/ebrehault/nx-jest-launcher",
+  "author": "Eric BREHAULT",
+  "license": "MIT"
+}
